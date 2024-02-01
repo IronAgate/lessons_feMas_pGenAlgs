@@ -21,6 +21,10 @@ When comparing trees with BFS, the 'structure' or order of the branches is not p
 				And then for BFS youd just add a check every time you add something to the queue, right? making note of whenever you add a null to the queue, or would've.
 			
 ???			SO, it DOES preserve shape for both, as long as you add that null check / I must not understand correctly, or???
+		
 
+!		I THOUGHT I GOT IT
+			I thought maybe it was for checking when a single node is identical btwn trees, but I think you might have to compare the entire tree to verify that
+				cuz both BFS and DFS had errors in this area
 
 */

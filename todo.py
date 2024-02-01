@@ -16,6 +16,12 @@ class not_yet_done
 	
 	recursion-less sqrt(n) exercise
 
+	? implement a Trie
+
+	? recursion-less heap??
+		honestly, Im not that motivated to do the non-recursion variants now that I understand recursion better
+	
+	buo of trie 'caching' interview Q
 
 class not_not_yet_done
 	
